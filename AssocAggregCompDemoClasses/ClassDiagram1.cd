@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AssocAggregCompDemoClasses.Instructor">
+    <Position X="0.5" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssocAggregCompDemoClasses.Department">
+    <Position X="3" Y="2.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAIAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssocAggregCompDemoClasses.College">
+    <Position X="7.5" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAEACAAAAQAAAAAAEAAAAAAIAAAAAA=</HashCode>
+      <FileName>College.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

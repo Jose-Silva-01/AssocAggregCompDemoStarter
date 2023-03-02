@@ -1,0 +1,24 @@
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\OOPCSharp\2.OOP\Lessons\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csprojResolveAssemblyReference.cache
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.pdb
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csprojAssemblyReference.cache
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemo\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.pdb
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.pdb
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csprojAssemblyReference.cache
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csproj.CoreCompileInputs.cache
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.dll
+C:\Users\chris.cusack\Documents\Courses\OOP\OOP\6.Aggregation Composition\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.pdb
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.dll
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\bin\Debug\AssocAggregCompDemoClasses.pdb
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csprojAssemblyReference.cache
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.csproj.CoreCompileInputs.cache
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.dll
+C:\Programs\Object Oriented Programming\AssocAggregCompDemoStarter\AssocAggregCompDemoClasses\obj\Debug\AssocAggregCompDemoClasses.pdb
